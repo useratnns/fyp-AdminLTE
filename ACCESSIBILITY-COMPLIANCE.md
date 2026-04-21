@@ -355,7 +355,7 @@ We welcome contributions to improve accessibility further. Please:
 - [WebAIM Resources](https://webaim.org/)
 
 ### **Testing Tools**
-- [axe-core](https://github.com/dequelabs/axe-core)
+- [axe-core](https://github.com/useratnns/axe-core)
 - [WAVE Web Accessibility Evaluator](https://wave.webaim.org/)
 - [Lighthouse Accessibility](https://developers.google.com/web/tools/lighthouse/)
 

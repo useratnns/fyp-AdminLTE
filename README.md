@@ -118,7 +118,7 @@ For detailed security guidelines, authentication requirements, and best practice
 Support AdminLTE development by becoming a sponsor or donor.
 
 <p align="center">
-  <a href="https://github.com/sponsors/danny007in">
+  <a href="https://github.com/useratnns/danny007in">
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" alt="Sponsor on GitHub" />
   </a>
   &nbsp;&nbsp;
@@ -140,13 +140,13 @@ Support AdminLTE development by becoming a sponsor or donor.
 </p>
 
 <p align="center">
-  <a href="https://github.com/sponsors/danny007in">Your avatar here? Become a sponsor</a>
+  <a href="https://github.com/useratnns/danny007in">Your avatar here? Become a sponsor</a>
 </p>
 
 ## Contributing
 
 - Highly welcome.
-- For your extra reference check [AdminLTE v4 Contribution Guide](https://github.com/ColorlibHQ/AdminLTE#contributing)
+- For your extra reference check [AdminLTE v4 Contribution Guide](https://github.com/useratnns/AdminLTE#contributing)
 - First thing first, you should have bit knowledge about NodeJS.
 - Github Knowledge.
 - Install NodeJS LTS version.

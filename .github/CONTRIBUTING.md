@@ -12,7 +12,7 @@ Contributions are always **welcome and recommended**! Here is how for beginner's
     * Clone to your machine
 
     ```bash
-    git clone https://github.com/YOUR_USERNAME/AdminLTE.git
+    git clone https://github.com/useratnns/AdminLTE.git
     ```
     * Create a new branch from `master`
 3. Compile dist files (Development) :

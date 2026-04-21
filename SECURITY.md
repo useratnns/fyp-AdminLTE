@@ -67,7 +67,7 @@ Do not deploy these to production:
 - The original CVE researcher acknowledged this should be classified as low/info severity, not critical
 
 **For More Information**:
-- [GitHub Issue #4948](https://github.com/ColorlibHQ/AdminLTE/issues/4948)
+- [GitHub Issue #4948](https://github.com/useratnns/AdminLTE/issues/4948)
 - [CVE Record](https://www.cve.org/CVERecord?id=CVE-2021-36471) (marked as disputed)
 
 ## Secure Development
